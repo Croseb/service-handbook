@@ -6,9 +6,9 @@ index: true
 
 In-flight assessment is a process of continuous improvement, mentoring and learning for the digital delivery team and the assessor team.
 
-The assessor team runs regular check-ins with the service team throughout the process, not just before it moves to the next stage in the [service design and delivery process](https://www.dto.gov.au/standard/service-design-and-delivery-process/). 
+The assessor team runs regular check-ins with the service team throughout the process, not just before it moves to the next stage in the [service design and delivery process](https://www.dto.gov.au/standard/service-design-and-delivery-process/). These check-ins should be once a week from the Project Kickoff and may be extended to fortnightly or monthly once the project reaches the Beta stages.
 
-The check-ins are not focussed on passing or not passing services. They are about checking progress against the Standard. Assessors work in collaboration with digital delivery teams to build better services. Assessors help identify and manage risks and mentor the digital delivery team.
+The check-ins are focussed on progress against the Standard.Passing or not passing Standard criteria is determined at the assesment stages of the Service development. Assessors work in collaboration with digital delivery teams to build better services. Assessors help identify and manage risks and mentor the digital delivery team. This approach will aid Service Delivery teams to meet the criteria before reaching the assessment stages.
 
 ## Duties for in-flight assessors
 
